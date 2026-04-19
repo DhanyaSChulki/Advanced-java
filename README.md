@@ -1,6 +1,9 @@
 # Advanced-java
 Lab programs
-##lab4a https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab4a.png
+##lab4a https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab4a.
+
+##lab4b https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab4b.png
+
 
 ##lab3a https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab3a.png    
 
