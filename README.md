@@ -8,7 +8,7 @@ Lab programs
 
 ##lab5a https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab5a.png
 
-
+##lab5b https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab5b.png
 
 ##lab3a https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab3a.png    
 
