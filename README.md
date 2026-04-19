@@ -5,8 +5,8 @@ Lab programs
 ##lab3b https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab3b.png
 ##lab3c https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab3c.png
 ##lab3d https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab3d.png
-##lab4e https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab3e.png
-
+##lab3e https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab3e.png
+##labf https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab3f.png
 
 
 
