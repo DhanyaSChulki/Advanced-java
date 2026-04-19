@@ -1,9 +1,11 @@
 # Advanced-java
 Lab programs
+
+##lab3a https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab3a.png
 ##lab3b https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab3b.png
+
 ##lab2a https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab2a.png 
 ##lab2b https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab2b.png
-##lab3a https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab3a.png
 
 ##p1https://github.com/DhanyaSChulki/Advanced-java/blob/main/p1%20output.png
 ##p2https://github.com/DhanyaSChulki/Advanced-java/blob/main/p2%20output.png
