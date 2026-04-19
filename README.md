@@ -11,4 +11,4 @@ Lab programs
 ##p9https://github.com/DhanyaSChulki/Advanced-java/blob/main/p9%20output.png
 ##p10https://github.com/DhanyaSChulki/Advanced-java/blob/main/p10%20output.png
 ##ListInterfaceDemo:https://github.com/DhanyaSChulki/Advanced-java/blob/main/list1.png
-##lab2ahttps://github.com/DhanyaSChulki/Advanced-java/blob/main/lab2a.png
+##lab2a https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab2a.png
