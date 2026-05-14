@@ -62,3 +62,4 @@ Lab programs
 
 ##lab5d https://github.com/DhanyaSChulki/Advanced-java/blob/main/lab5d.png
 
+##capitalizeworsdemo https://github.com/DhanyaSChulki/Advanced-java/blob/main/CapitalizeWordsDemo.java
